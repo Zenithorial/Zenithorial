@@ -8,9 +8,7 @@ BS Computer Science student at **Ateneo de Davao University**, focused on the **
 - **National Finalist** — 30th Philippine Statistics Quiz (PSQ)
 - **DOST-SEI Undergraduate Scholar**
 
-#### 📫 Connect
-- Email: `your-email@example.com`
-
+  
 <!--
 **Zenithorial/Zenithorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
