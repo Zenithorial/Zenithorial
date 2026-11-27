@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello, I'm Karl Edrianne Ramos
+BS Computer Science student at **Ateneo de Davao University**, focused on the **mathematical foundations of machine learning**, **statistical modeling**, and **computational visualization**.
+
+#### My Current Focus
+- Learning core machine learning and optimization algorithms using Python and NumPy.
+
+#### Academic Highlights (If you care)
+- **National Finalist** — 30th Philippine Statistics Quiz (PSQ)
+- **DOST-SEI Undergraduate Scholar**
+
+#### 📫 Connect
+- Email: `your-email@example.com`
 
 <!--
 **Zenithorial/Zenithorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
